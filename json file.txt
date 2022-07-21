@@ -2,21 +2,21 @@
 
 var cars=[
   {
-    company:"honda",
-    model:"city",
-  price:1000000,
+    "company":"honda",
+    "model":"city",
+  "price":1000000,
   },
  
            {
-company:"toyota",
-  model:"innova",
-   price:2500000,
+"company":"toyota",
+  "model":"innova",
+   "price":2500000,
    },
    
             {
-company:"wolkswagan",
-  model:"polo gt",
-    price:900000,
+"company":"wolkswagan",
+  "model":"polo gt",
+    "price":900000,
    }]
  ;
  
@@ -40,21 +40,21 @@ for(let key in cars){
 2.Resume in JASON format:
   
 var resume={
-   Name:"prasanth.k",
-   Dateofbirth:"08.05.1997",
-   Placeofbirth:"palladam",
-   Civlstatus:"unmarried",
-   Citizenship:"indian",
-   Fathername:"kanagarasu.r",
-   Mothername:"naglakshimi",
-   Educationlevel:"B.E-Mechanical Engg",
-   Batch:"2014-2018",
-   Hobbies:"playing cricket and foot ball,reading books,watching movies",
-   Experiance:"3-years in AKG Pvt Ltd",
-   Designation:"quality control",
-   Skills:"lead the team,little hardwork,more smartwork",
-   Shorttermgoal:"place in good company",
-   Longtermgoal:"to lead the tire 1 company", 
+   "Name":"prasanth.k",
+   "Date of birth":"08.05.1997",
+   "Place of birth":"palladam",
+   "Civl status":"unmarried",
+   "Citizenship":"indian",
+   "Father name":"kanagarasu.r",
+   "Mother name":"naglakshimi",
+   "Education level":"B.E-Mechanical Engg",
+   "Batch":"2014-2018",
+   "Hobbies":"playing cricket and foot ball,reading books,watching movies",
+   "Experiance":"3-years in AKG Pvt Ltd",
+   "Designation":"quality control",
+   "Skills":"lead the team,little hardwork,more smartwork",
+   "Short term goal":"place in good company",
+   "Long term goal":"to lead the tire 1 company", 
 
     }
  console.log(resume);
