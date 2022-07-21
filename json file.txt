@@ -4,19 +4,19 @@ var cars=[
   {
     "company":"honda",
     "model":"city",
-  "price":1000000,
+  "price":10000,
   },
  
            {
 "company":"toyota",
   "model":"innova",
-   "price":2500000,
+   "price":25000,
    },
    
             {
 "company":"wolkswagan",
   "model":"polo gt",
-    "price":900000,
+    "price":9500,
    }]
  ;
  
