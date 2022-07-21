@@ -24,7 +24,7 @@ company:"wolkswagan",
   for(let i=0;i<cars.length;i++){
   
  
- console.log(cars[i].model+"="+"?"+cars[i].price);
+ console.log(cars[i].model+"="+"$"+cars[i].price);
  
 
  };
