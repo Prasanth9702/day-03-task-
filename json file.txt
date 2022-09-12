@@ -36,6 +36,13 @@ for(let key in cars){
 
 
   };
+  for(let key of cars){
+  
+
+  console.log(key,cars[key]);
+
+
+  };
 
 2.Resume in JASON format:
   
